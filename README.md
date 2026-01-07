@@ -1,4 +1,4 @@
-# MoonTV-app - 影视资源聚合平台app版
+# MoonTV-app - 聚合平台app版
 ## 更新：2.0版本已经包含2个app应用——手机版和电视TV版应用。请前往Releases页面下载！https://github.com/moli-xia/MoonTV-app/releases
 - 本项目来源:
 - https://github.com/LunaTechLab/MoonTV
